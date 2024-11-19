@@ -1,2 +1,2 @@
 # bairesDev-machine-learning
-BairesDev - Machine Learning Practitioner
+BairesDev - Machine Learning Practitioner Bootcamp
